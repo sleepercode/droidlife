@@ -1,8 +1,13 @@
 #summary ToDo
 
+  * save world, as data file
+    * save world on onStop() / restore in onStart()
   * seed designer
-  * save world, to .lif
-  * save world, as bitmap file?
+    * screen w/ visible grid
+    * DPad-center to set / unset bit
+    * zoom in / out
+    * save to file (/sdcard/droidlife/save/...)
+  * export world, as bitmap file?
   * other formats
     * rle
     * plain text
