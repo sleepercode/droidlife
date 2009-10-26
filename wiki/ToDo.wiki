@@ -1,0 +1,9 @@
+#summary ToDo
+
+  * seed designer
+  * save world, to .lif
+  * save world, as bitmap file?
+  * other formats
+    * rle
+    * plain text
+    * life 1.05
