@@ -1,13 +1,9 @@
 #summary ToDo
 
-  * save world, as data file
-    * save world on onStop() / restore in onStart()
-  * seed designer
-    * screen w/ visible grid
-    * DPad-center to set / unset bit
-    * zoom in / out
-    * save to file (/sdcard/droidlife/save/...)
-  * export world, as bitmap file?
+  * save world on onStop() / restore in onStart()
+  * from game activity, save menu option, save after stopped
+  * from game activity, edit, then return to game and play. would need to save in temp file and re-load
+  * from designer, run "option". saves and runs whatever is there.
   * other formats
     * rle
     * plain text
