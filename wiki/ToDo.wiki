@@ -1,9 +1,5 @@
 #summary ToDo
 
-  * save world on onStop() / restore in onStart()
-  * from game activity, save menu option, save after stopped
-  * from game activity, edit, then return to game and play. would need to save in temp file and re-load
-  * from designer, run "option". saves and runs whatever is there.
   * other formats
     * rle
     * plain text
