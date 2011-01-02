@@ -1,9 +1,1 @@
 #summary ToDo
-
-  * NPE when try to use existing seed name for new
-  * in design, should draw cells all white not in different colors
-  * cross hair should be darker in design mode, less obvious
-  * other formats
-    * rle
-    * plain text
-    * life 1.05
